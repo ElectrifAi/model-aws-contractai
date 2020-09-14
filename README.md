@@ -8,4 +8,4 @@ Leveraging training data from thousands of contracts to properly identify and ex
 
 SKU:  CCEXT-PT-PCM-AWS-001
 
-AWS SageMaker:  TODO - add link e.g. (https://aws.amazon.com/marketplace/pp/prodview-xxxxxxx)
+AWS SageMaker:  https://aws.amazon.com/marketplace/pp/prodview-vf7wfyhrcx25y
